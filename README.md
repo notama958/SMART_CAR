@@ -7,9 +7,9 @@ Controllable Lego car via website with Arduino + Esp8266
 - [x] PWM - Pulse Wide Modulation
 - [x] CMPS14 - I2C bus intergrated
 - [x] UART communication on Arduino
-- [x] Http post
-[Click me](./diagram) to view the full board diagram 
-[Click me](./final_files) to view source code
+- [x] Http post </br>
+[Click me](./schematic) to view the full board schematic</br>
+[Click me](./final_files) to view source code </br>
 # Incoming Features (part 2) => will be updated later
 - [ ] measure the distance with Lidar
 - [ ] ...
