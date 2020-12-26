@@ -8,9 +8,9 @@ Controllable Lego car via website with Arduino + Esp8266
 - [x] CMPS14 - I2C bus intergrated
 - [x] UART communication on Arduino
 - [x] Http post
-[Click me] (./diagram) to view the full board diagram 
-[Click me] (./final_files) to view source code
-# Incoming Features (part 2)
+[Click me](./diagram) to view the full board diagram 
+[Click me](./final_files) to view source code
+# Incoming Features (part 2) => will be updated later
 - [ ] measure the distance with Lidar
 - [ ] ...
 ## Demo
