@@ -272,15 +272,15 @@ void turn(long inputDirection)
   readDirection(currentDirection);
   
       newDirection=currentDirection+inputDirection;
-  if( currentDirection+inputDirection>0)
+  if( newDirection>0)
   {
-    if(currentDirection+inputDirection>360)
+    if(newDirection>360)
     {
       newDirection-=360;
     }
   
   }
-  else{
+  else if(newDirection<0){
     newDirection+=360;
   }
   if(inputDirection<0)
