@@ -18,11 +18,10 @@ ESP Steering wheel example 14.11.2019 KN
 //const char* ssid = "mokkula_925936";
 //const char* password = "12345678";
 
-//const char* ssid = "SOURCE";
-//const char* password = "Pelle!23";
+const char* ssid = "SOURCE";
+const char* password = "Pelle!23";
 
-const char* ssid = "Notaman";
-const char* password = "TonypasswOrd0981877958";
+
 
 #define TESTFILE "/index.html"
 bool    spiffsActive = false;

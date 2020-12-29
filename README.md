@@ -15,6 +15,9 @@ Controllable Lego car via website with Arduino + Esp8266
 # Incoming Features (part 2) => will be updated later
 - [ ] measure the distance with Lidar
 - [ ] ...
+
 ## Demo
-- will be updated after 4/1/2020
+[Click me](./demo) to view the demo images</br>
+[Click me](https://drive.google.com/file/d/1Pxb0BjE_jz45RXY0wqWdyZJji9AnxhIb/view?usp=sharing) to view the full board schematic</br>
+
 ## Author : Yen Tran
