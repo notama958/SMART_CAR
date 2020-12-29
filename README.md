@@ -17,7 +17,7 @@ Controllable Lego car via website with Arduino + Esp8266
 - [ ] ...
 
 ## Demo
-[Click me](./demo) to view the demo images</br>
-[Click me](https://drive.google.com/file/d/1Pxb0BjE_jz45RXY0wqWdyZJji9AnxhIb/view?usp=sharing) to view the full board schematic</br>
+[Click me](./demo) to view demo images</br>
+[Click me](https://drive.google.com/file/d/1Pxb0BjE_jz45RXY0wqWdyZJji9AnxhIb/view?usp=sharing) to view video </br>
 
 ## Author : Yen Tran
