@@ -4,7 +4,7 @@
 
 Controllable Lego car via website with Arduino + Esp8266
 <br/>
-![preview](https://github.com/notama958/videos/blob/master/gif.mp4)
+![preview](https://media.giphy.com/media/o05A3kGzORrH0pk8Jl/giphy.gif?cid=790b761137970cf32edc96e6b736aabd0e35c2084714562d&rid=giphy.gif&ct=g)
 
 ## Technologies used
 
