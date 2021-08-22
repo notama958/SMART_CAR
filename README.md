@@ -2,7 +2,7 @@
 
 ## Description
 
-Controllable Lego car via website with Arduino + Esp8266
+Controllable Lego car via website with Arduino + Esp8266 + Lidar lite v3
 <br/>
 ![preview](https://media.giphy.com/media/o05A3kGzORrH0pk8Jl/giphy.gif?cid=790b761137970cf32edc96e6b736aabd0e35c2084714562d&rid=giphy.gif&ct=g)
 
