@@ -1,0 +1,141 @@
+body {
+  font-family: monospace;
+  padding: 100px;
+  /* width:100%;*/
+  /* border: 1px solid black */
+}
+.float-right-bottom {
+  display: block;
+  position: inherit;
+  width: 100%;
+}
+#Progress_Status {
+  background-color: #ddd;
+  margin-bottom: 10px;
+}
+
+#myprogressBar {
+  width: 0%;
+  height: 20px;
+  background-color: orangered;
+}
+
+.clear-fix::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+
+.box {
+  /*display: inline-block;
+  margin: auto;*/
+  position: relative;
+  height: 100%;
+  width: 50%;
+  padding: 20px;
+  box-shadow: 5px 5px 10px gray;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+/*h3 span {
+    font-size: 0.6em;
+    text-align: center;
+}*/
+.submit-area {
+  float: left;
+  /* position: absolute; */
+}
+.control {
+  margin-right: 70px;
+  /* position: absolute; */
+  float: left;
+}
+.container {
+  height: 300px;
+  width: 100%;
+  margin: 10px;
+  position: inherit;
+  /* border: 1px solid black; */
+  display: flex;
+}
+.container > div {
+  float: left;
+  padding-left: 5px;
+}
+.container button {
+  display: block;
+  padding-left: 10px;
+}
+.information {
+  /* border: 1px solid black; */
+  text-align: left;
+  /* word-wrap: break-word; */
+  width: 300px;
+  position: inherit;
+}
+.information #text-info {
+  font-weight: bold;
+  color: #2a9d8f;
+}
+#right-box {
+  width: 300px;
+  height: 300px;
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+#ox {
+  position: absolute;
+  border-bottom: 1px solid black;
+  transform: translateY(50%);
+  top: 50%;
+  left: 0;
+}
+#oy {
+  position: absolute;
+  border-left: 1px solid black;
+  top: 0;
+  left: 50%;
+  transform: translateX(50%);
+}
+#car {
+  width: 20px;
+  height: 30px;
+  /* background-color: #17a2b8; */
+  position: absolute;
+  transition: 1s;
+  transform: translate(150px, 150px) rotate(0deg);
+  background-image: url('../img/car.png');
+  background-size: cover;
+}
+.box .text-info {
+  color: #023047;
+  font-weight: bold;
+}
+.box #N {
+  top: 0;
+  left: 50%;
+  position: absolute;
+  padding-left: 5px;
+}
+.box #W {
+  top: 50%;
+  left: 0;
+  position: absolute;
+  padding-left: 5px;
+}
+.box #E {
+  top: 50%;
+  left: 90%;
+  position: absolute;
+  padding-left: 10px;
+}
+.box #S {
+  bottom: 0;
+  left: 50%;
+  position: absolute;
+  padding-left: 5px;
+  margin-bottom: 0;
+}
