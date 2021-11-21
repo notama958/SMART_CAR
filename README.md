@@ -16,8 +16,9 @@ Controllable Lego car via website with Arduino + Esp8266 + Lidar lite v3
 - [x] Http post
 - [x] Lidar litev3
 
-[Click me](./schematic) to view the full board schematic</br>
-[Click me](./final_files) to view source code </br>
+[Schematic](./schematic) to view the full board schematic</br>
+[Version-1](./version-1) to view source code </br>
+[Version-2](./version-2) to view source code </br>
 
 # Incoming Features (part 2) => will be updated later
 
@@ -28,6 +29,8 @@ Controllable Lego car via website with Arduino + Esp8266 + Lidar lite v3
 
 [Click me](./demo) to view demo images</br>
 [Demo smart car v1](https://drive.google.com/file/d/1Pxb0BjE_jz45RXY0wqWdyZJji9AnxhIb/view?usp=sharing) <br/>
-[Demo smart car v2](https://drive.google.com/file/d/15f3zzebKRs1d__hnP52iNkLYrtQU5abr/view?usp=sharing)
+[Demo smart car v2](https://drive.google.com/file/d/1j7S2uheny5GeCPpgCB2w50v-JDKZWeJJ/view?usp=sharing)
 
 ## Author : Yen Tran
+## License
+- MIT

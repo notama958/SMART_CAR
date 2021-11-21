@@ -1,3 +1,4 @@
+
 #include <Ethernet.h>
 
 /*
@@ -19,11 +20,16 @@
 //            network credentials
 
 
+//const char* ssid = "SOURCE";
+//const char* password = "Pelle!23";
 
-const char *ssid = "Your_WIFI";
-const char *password = "Your_PW";
+const char *ssid = "Notama";
+const char *password = "TonypasswOrd0981877958";
 
-
+/*
+  const char* ssid = "AndroidAP68B8";
+  const char* password = "wbft3553";
+*/
 bool    spiffsActive = false;
 
 

@@ -20,12 +20,12 @@ const speed = 3; // 3cm:10px
 const w = 1.2; // m
 const h = 0.8; // m
 let container_title = document.getElementById('text-info');
-container_title.innerHTML = `Dimension: ${speed}px:1cm - ${w * 1000}cmx${
-  h * 1000
+container_title.innerHTML = `Dimension: ${speed}px:1cm - ${w * 100}cmx${
+  h * 100
 }cm`;
 let container = document.getElementById('right-box');
-container.style.width = (w * 1000) / speed + 'px';
-container.style.height = (h * 1000) / speed + 'px';
+container.style.width = w * 100 * speed + 'px';
+container.style.height = h * 100 * speed + 'px';
 const containerWidth = container.offsetWidth;
 const containerHeight = container.offsetHeight;
 let ox = document.getElementById('ox');
@@ -269,7 +269,7 @@ function movingCar(lidar_value, direction) {
     console.log(car.style.transform);
   }
 }
-// movingCar(63, 179);
+movingCar(63, 179);
 // movingCar(10, 270
 //   );
 // car.style.transform+=
